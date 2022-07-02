@@ -1,5 +1,5 @@
-## Hello , It's my first project with react.Here i created an website which is used to manipulate text Like converting to UpperCase ,LowerCase ,Counting the number of words ,characters .
-## I made this by using react Function Based Components and react hooks.Hope you enjoy it .
+### Hello , It's my first project with react.Here i created an website which is used to manipulate text Like converting to UpperCase ,LowerCase ,Counting the number of words ,characters .
+### I made this by using react Function Based Components and react hooks.Hope you enjoy it .
 
 
 
